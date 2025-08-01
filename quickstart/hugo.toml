@@ -1,4 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'davids Site'
+title = "david's site"
 theme = 'PaperMod'
+[params]
+  defaultTheme = 'dark'
+
+[params.homeInfoParams]
+Title = "thank you"
+Content = "here are some of my thoughts"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/david-vasquez1/"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/vasquezd21"
