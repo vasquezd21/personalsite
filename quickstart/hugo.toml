@@ -6,7 +6,7 @@ theme = 'PaperMod'
   defaultTheme = 'dark'
 
 [params.homeInfoParams]
-Title = "thank you"
+Title = "thank you for coming"
 Content = "here are some of my thoughts"
 
 [[params.socialIcons]]
@@ -16,3 +16,7 @@ url = "https://www.linkedin.com/in/david-vasquez1/"
 [[params.socialIcons]]
 name = "GitHub"
 url = "https://github.com/vasquezd21"
+
+[[params.socialIcons]]
+name = "Resume"
+url = "/DavidVasquez_Resume.pdf"
