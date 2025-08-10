@@ -1,13 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "david's site"
+title = "david vasquez"
 theme = 'PaperMod'
 [params]
   defaultTheme = 'dark'
 
 [params.homeInfoParams]
-Title = "thank you for coming"
-Content = "here are some of my thoughts"
+Title = "about"
+Content = "I'm David Vasquez, a recent Computer Science graduate from Rensselaer Polytechnic Institute (RPI) with a concentration in AI & Data. I'm passionate about building innovative solutions at the intersection of technology and human-centered design. My experience at Microsoft, spanning roles in software engineering, technical program management, and a program manager contract position, has given me a comprehensive understanding of the entire product lifecycle. I've had the opportunity to work on exciting projects, from developing cross-platform mobile and web applications with ONNX Runtime to fine-tuning an AI financial agent with Retrieval-Augmented Generation (RAG). My interests lie in AI, data science, and technology policy, and this website serves as a space to share some of my past work and ongoing projects. Below are my socials and resume. Thank you for visiting."
 
 [[params.socialIcons]]
 name = "LinkedIn"
